@@ -1,2 +1,2 @@
-# Python Project- New Zealand GDP Forecasting
+# Python Project- Home Loan Eligibility Prediction
 ## Business Problem 
